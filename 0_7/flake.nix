@@ -11,6 +11,7 @@
   inputs.src-guildenstern-0_7.ref   = "refs/tags/0.7";
   inputs.src-guildenstern-0_7.owner = "olliNiinivaara";
   inputs.src-guildenstern-0_7.repo  = "GuildenStern";
+  inputs.src-guildenstern-0_7.dir   = "";
   inputs.src-guildenstern-0_7.type  = "github";
   
   inputs."weave".owner = "nim-nix-pkgs";

@@ -11,6 +11,7 @@
   inputs.src-guildenstern-master.ref   = "refs/heads/master";
   inputs.src-guildenstern-master.owner = "olliNiinivaara";
   inputs.src-guildenstern-master.repo  = "GuildenStern";
+  inputs.src-guildenstern-master.dir   = "";
   inputs.src-guildenstern-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
