@@ -11,7 +11,6 @@
   inputs.src-guildenstern-2_0_0.ref   = "refs/tags/2.0.0";
   inputs.src-guildenstern-2_0_0.owner = "olliNiinivaara";
   inputs.src-guildenstern-2_0_0.repo  = "GuildenStern";
-  inputs.src-guildenstern-2_0_0.dir   = "";
   inputs.src-guildenstern-2_0_0.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
